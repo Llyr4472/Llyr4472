@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llyr4472" alt="llyr4472" /></a> </p>
 
-- 🔭 I’m currently working on [nepse-trading-bot](https://www.github.com/llyr4472/nepse-trading-bot)
+- 🔭 I’m currently working on exams😢
 
 - 🌱 I’m currently learning useless stuff.
 
