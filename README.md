@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on exams😢
 
-- 🌱 I’m currently learning useless stuff.
+<!-- - 🌱 I’m currently learning useless stuff. -->
 
 - 👨‍💻 All of my projects are available here.
 
