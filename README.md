@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Money Printer](https://github.com/Llyr4472/Money-Printer)
 
-<!-- - 🌱 I’m currently learning useless stuff. -->
+- 🌱 I’m currently learning C# . 
 
 - 👨‍💻 All of my projects are available here.
 
