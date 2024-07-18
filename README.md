@@ -1,15 +1,15 @@
-<h1 align="center">Hello there👋, I'm Llyr</h1>
+<h1 align="center">Hello there👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llyr4472&label=Profile%20views&color=0e75b6&style=flat-square" alt="llyr4472" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llyr4472" alt="llyr4472" /></a> </p>
 
-- 🔭 I’m currently working on [Money Printer](https://github.com/Llyr4472/Money-Printer)
+<!-- - 🔭 I’m currently working on [Money Printer](https://github.com/Llyr4472/Money-Printer)
 
 - 🌱 I’m currently learning C# . 
 
 - 👨‍💻 All of my projects are available here.
 
-- 💬 Ask me about **pandas✅,python✅,life❌**
+- 💬 Ask me about **pandas✅,python✅,life❌** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
